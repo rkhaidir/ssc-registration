@@ -26,7 +26,7 @@ const translations = {
       newDescription:
         "Isi data dengan benar. Steam GUID dan nomor balap hanya dapat digunakan oleh satu peserta.",
       fullName: "Nama Lengkap",
-      fullNamePlaceholder: "Contoh: Khaidir Rahman",
+      fullNamePlaceholder: "Contoh: Max Verstappen",
       teamName: "Nama Tim",
       teamNamePlaceholder: "Contoh: 97 Racing Team",
       racingNumber: "Nomor Balap",
